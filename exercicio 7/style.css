@@ -1,0 +1,11 @@
+#pesquisa{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#lista{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
