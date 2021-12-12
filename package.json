@@ -1,0 +1,21 @@
+{
+  "name": "DevInHouse-Softplan-7-Semana",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Victor-Higa1997/DevInHouse-Softplan-7-Semana.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Victor-Higa1997/DevInHouse-Softplan-7-Semana/issues"
+  },
+  "homepage": "https://github.com/Victor-Higa1997/DevInHouse-Softplan-7-Semana#readme"
+}
